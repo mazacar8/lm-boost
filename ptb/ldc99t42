@@ -1,0 +1,338 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html lang="en"><!--<![endif]-->
+  <head data-hook="inside_head">
+    <meta charset="utf-8">
+<title>Treebank-3 - Linguistic Data Consortium</title>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
+<meta content="Introduction
+This release contains the following Treebank-2..." name="description" />
+<meta content="Linguistic Data Consortium, LDC, Language" name="keywords" />
+<link href="https://https://catalog.ldc.upenn.edu/ldc99t42" rel="canonical" />
+<link href="/assets/favicon-d8261e20aa21e74f1adf5d4302266edc.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/assets/store/all-b31ac83002ae2c1163428346333ac19c.css" media="screen,print" rel="stylesheet" type="text/css" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="/ffRlQvV/200RW6xXweH81u1AJAFonr1PmtIEKSRXc0=" name="csrf-token" />
+<script src="/assets/store/all-a0251459eb70fafaebea661001778846.js" type="text/javascript"></script>
+
+<script>
+  if (Spree === undefined) {
+    var Spree = {}
+  }
+  if (Spree.routes == undefined) {
+    Spree.routes = {}
+  }
+  Spree.routes.states_search = "/api/states"
+</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-47004899-1', 'catalog.ldc.upenn.edu');
+  ga('send', 'pageview');
+</script>
+
+  </head>
+  <body class="one-col" id="product-details" data-hook="body">
+
+    <div class="container">
+
+      <header id="header" class="row" data-hook>
+  <div id="ldcheadbranding">
+    <ul id="sas-header" class="inline">
+      <li class="first"><a href="https://www.ldc.upenn.edu">Linguistic Data Consortium</a></li>
+      <li><a href="http://www.upenn.edu/">UNIVERSITY OF PENNSYLVANIA</a></li>
+      <li class="last"><a href="https://www.ldc.upenn.edu/about/contact-ldc">CONTACT US</a></li>
+    </ul> 
+    <ul id="ldc-social" class="inline">
+      <li class="first">
+        <a href="http://www.linkedin.com/company/linguistic-data-consortium"><img src="/assets/store/linkedin.png" alt="LinkedIn" height="16" width="17"></a>
+      </li>
+      <li>
+        <a href="https://www.ldc.upenn.edu/rss.xml"><img src="/assets/store/rss.png" alt="RSS Feed" height="16" width="16"></a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/user/ldcupenn"><img src="/assets/store/youtube.png" alt="YouTube" height="16" width="41"></a>
+      </li>
+      <li>
+        <a href="https://twitter.com/LDCupenn"><img src="/assets/store/twitter.png" alt="Twitter" height="13" width="16"></a>
+      </li>      
+       <li>
+        <a href="http://ldc-upenn.blogspot.com/"><img src="/assets/store/blogger.png" alt="Blogger" height="16" width="16"></a>
+      </li>
+      <li class="last">
+        <a href="https://www.facebook.com/ldc.upenn"><img src="/assets/store/fb.png" alt="Facebook" height="16" width="16"></a>
+      </li>
+    </ul>
+  </div>
+  <figure id="logo" class="columns six" data-hook>
+    <a href="https://www.ldc.upenn.edu/"><img src="/assets/LDClogo.png" width="262" height="77" alt="Linguistic Data Consortium" border="0"></a>
+  </figure>
+  <div id="account-cart-nav">
+    <ul>
+      <li id="link-to-login"><a href="/login">Login</a> or <a href="/signup">Register</a></li>
+    </ul>
+  </div>
+</header>
+
+
+      <div id="wrapper" class="row" data-hook>
+
+        
+
+        <aside id="sidebar" class="columns four" data-hook>
+	<div id="block-menu-block-1" class="block block-menu-block first odd">
+		<div class="content">
+			<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+				<ul class="menu"><li class="first collapsed menu-mlid-478"><a href="https://www.ldc.upenn.edu/about">About</a></li>
+					<li class="collapsed menu-mlid-479"><a href="https://www.ldc.upenn.edu/members">Members</a></li>
+					<li class="collapsed menu-mlid-480"><a href="https://www.ldc.upenn.edu/communications">Communications</a></li>
+					<li class="expanded active-trail menu-mlid-481">
+						<a href="https://www.ldc.upenn.edu/language-resources" class="active-trail">Language Resources</a>
+						<ul class="menu">
+							<li class="first expanded active-trail menu-mlid-549">
+								<a href="https://www.ldc.upenn.edu/language-resources/data" class="active-trail">Data</a>
+								<ul class="menu">
+									<li class="first leaf menu-mlid-558"><a href="https://www.ldc.upenn.edu/language-resources/data/obtaining">Obtaining Data</a></li>
+									<li class="expanded active-trail active menu-mlid-572">
+										<a href="/" class=" active">Catalog</a>
+										<ul class="menu">
+											<li class="first leaf menu-mlid-593"><a href="/byyear" title="List LDC Corpora by Release Year" class="">By Year</a></li>
+											<li class="leaf menu-mlid-594"><a href="/topten" title="List Top Ten Requested Corpora" class="">Top Ten Corpora</a></li>
+											<li class="leaf menu-mlid-595"><a href="/byproject" title="List LDC Catalog by Project" class="">Projects</a></li>
+											<li class="last leaf menu-mlid-592"><a href="/search" title="Search LDC Catalog" class="">Search</a></li>
+											<li class="last leaf menu-mlid-592"><a href="/memberships" title="View LDC Memberships" class="">Memberships</a></li>
+										</ul>
+									</li>
+									<li class="leaf menu-mlid-566"><a href="https://online.ldc.upenn.edu">LDC Online</a></li>
+									<li class="last leaf menu-mlid-587"><a href="https://www.ldc.upenn.edu/language-resources/data/data-scholarships">Data Scholarships</a></li>
+								</ul>
+							</li>
+							<li class="collapsed menu-mlid-550"><a href="https://www.ldc.upenn.edu/language-resources/tools">Tools</a></li>
+							<li class="collapsed menu-mlid-577"><a href="https://www.ldc.upenn.edu/language-resources/papers">Papers</a></li>
+							<li class="last leaf menu-mlid-560"><a href="http://lrwiki.ldc.upenn.edu/mediawiki/index.php/Main_Page" title="">LR Wiki</a></li>
+						</ul>
+					</li>
+					<li class="collapsed menu-mlid-482"><a href="https://www.ldc.upenn.edu/data-management">Data Management</a></li>
+					<li class="last collapsed menu-mlid-483"><a href="https://www.ldc.upenn.edu/collaborations">Collaborations</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+</aside>
+
+
+        <div id="content" class="columns twelve" data-hook>
+          <div class="breadcrumb">
+            <h2 class="element-invisible">You are here</h2>
+            <a href="https://www.ldc.upenn.edu/">Home</a> &#8250; 
+            <a href="https://www.ldc.upenn.edu/language-resources">Language Resources</a> &#8250; 
+            <a href="https://catalog.ldc.upenn.edu/">Data</a>
+          </div>
+
+          
+          <div data-hook="product_show" itemscope itemtype="http://schema.org/Product">
+
+  <div class="columns alpha" data-hook="product_right_part">
+    <div class="row" data-hook="product_right_part_wrap">
+
+      <div id="product-description" data-hook="product_description">
+
+        <h1 class="corporatitle" itemprop="name">Treebank-3</h1>
+
+      <div data-hook="product_properties">
+          <table id="product-properties" class="table-display" data-hook class="no-border">
+    <tbody>
+          <tr class="even">
+            <td class="pvalue"><em>Item Name:</em></td>
+            <td>Treebank-3</td>
+          </tr>
+          <tr class="odd">
+            <td class="pvalue"><em>Author(s):</em></td>
+            <td>Mitchell P. Marcus, Beatrice Santorini, Mary Ann  Marcinkiewicz, Ann Taylor</td>
+          </tr>
+          <tr class="even">
+            <td class="pvalue"><em>LDC Catalog No.:</em></td>
+            <td>LDC99T42</td>
+          </tr>
+          <tr class="odd">
+            <td class="pvalue"><em>ISBN:</em></td>
+            <td>1-58563-163-9</td>
+          </tr>
+          <tr class="even">
+            <td class="pvalue"><em>ISLRN:</em></td>
+            <td>141-282-691-413-2</td>
+          </tr>
+          <tr class="odd">
+            <td class="pvalue"><em>Member Year(s):</em></td>
+            <td>1999</td>
+          </tr>
+          <tr class="even">
+            <td class="pvalue"><em>DCMI Type(s):</em></td>
+            <td>Text</td>
+          </tr>
+          <tr class="odd">
+            <td class="pvalue"><em>Data Source(s):</em></td>
+            <td>telephone speech, newswire, microphone speech, transcribed speech, varied</td>
+          </tr>
+          <tr class="even">
+            <td class="pvalue"><em>Project(s):</em></td>
+            <td>TIDES, GALE</td>
+          </tr>
+          <tr class="odd">
+            <td class="pvalue"><em>Application(s):</em></td>
+            <td>parsing, natural language processing, tagging</td>
+          </tr>
+          <tr class="even">
+            <td class="pvalue"><em>Language(s):</em></td>
+            <td>English</td>
+          </tr>
+          <tr class="odd">
+            <td class="pvalue"><em>Language ID(s):</em></td>
+            <td>eng</td>
+          </tr>
+          <tr class="even">
+            <td class="pvalue"><em>License(s):</em></td>
+            <td>
+                <a href="/license/ldc-non-members-agreement.pdf" id="license-14">LDC User Agreement for Non-Members</a><br>
+                <script type="text/javascript"> $('#license-14').popup({content:$(this).attr('href'),type:'external',width:$(window).width()/1.25+'px',height:'400px' });
+                </script>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td class="pvalue"><em>Online Documentation:</em></td>
+            <td><a href="/docs/LDC99T42/">LDC99T42 Documents</a></td>
+          </tr>
+          <tr class="even">
+            <td class="pvalue"><em>Licensing Instructions:</em></td>
+            <td><a href="http://www.ldc.upenn.edu/language-resources/data/obtaining">Subscription &amp; Standard Members, and Non-Members</a></td>
+          </tr>        
+          <tr class="odd">
+            <td class="pvalue"><em>Citation:</em></td>
+            <td>Marcus, Mitchell, et al. Treebank-3 LDC99T42. Web Download. Philadelphia: Linguistic Data Consortium, 1999.</td>
+          </tr>
+    </tbody>
+  </table>
+
+      </div>
+
+        <div itemprop="description" data-hook="description">
+          <h3>Introduction</h3>
+<p>This release contains the following <a href="http://catalog.ldc.upenn.edu/LDC95T7" rel="nofollow">Treebank-2</a> Material:</p>
+<ul>
+<li>One million words of 1989 Wall Street Journal material annotated in Treebank II style.</li>
+<li>A small sample of ATIS-3 material annotated in Treebank II style.</li>
+<li>A fully tagged version of the Brown Corpus.</li>
+</ul>
+<p>and the following new material:</p>
+<ul>
+<li>Switchboard tagged, dysfluency-annotated, and parsed text</li>
+<li>Brown parsed text</li>
+</ul>
+<p>The Treebank bracketing style is designed to allow the extraction of simple predicate/argument structure. Over one million words of text are provided with this bracketing applied.</p>
+<h3>Data</h3>
+<p>The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed&nbsp;Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.</p>
+<h3>Updates</h3>
+<p>After publication, it was discovered that not all of the postscript (*.ps) files had been converted to pdfs and that some of the converted pdfs contained errors. For pdf copies of the documentation files, please go to <a href="desc/addenda/LDC1999T42" rel="nofollow">addenda</a> for a list of the files available.</p>
+<p>As of October 5, 2016 252 wsj files from <a href="http://catalog.ldc.upenn.edu/LDC95T7" rel="nofollow">Treebank-2</a>&nbsp;were added that were previously missing.</p>
+<p>As of February, 2017, 2,499 "raw" wsj files were added from Treebank-2 (<a href="../../../LDC95T7">LDC95T7</a>).</p>
+<p>Corpus downoads after these&nbsp;dates will include these missing files.</p>
+
+        </div>
+
+        <div id="cart-form" data-hook="cart_form">
+          <form accept-charset="UTF-8" action="/orders/populate" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/ffRlQvV/200RW6xXweH81u1AJAFonr1PmtIEKSRXc0=" /></div>
+  <div id="inside-product-cart-form" data-hook="inside_product_cart_form" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+      <div id="product-variants" class="columns four alpha">
+        <h3 class="product-section-title">Available Media</h3>
+        <ul id="corpus-media-options">
+            <li>
+              <input checked="checked" data-price-table="{&quot;mm&quot;:{&quot;name&quot;:&quot;1999 Member&quot;,&quot;price&quot;:&quot;$0.00&quot;},&quot;nm&quot;:{&quot;name&quot;:&quot;Non-Member&quot;,&quot;price&quot;:&quot;$1,700.00&quot;},&quot;rl&quot;:{&quot;name&quot;:&quot;Reduced-License&quot;,&quot;price&quot;:&quot;$850.00&quot;},&quot;ec&quot;:{&quot;name&quot;:&quot;Extra Copy&quot;,&quot;price&quot;:&quot;$0.00&quot;}}" id="products_502_3008" name="products[502]" type="radio" value="3008" />
+              <label for="products_502_3008">
+                <span class="variant-description">
+                  Web Download<span>
+                </span>
+              </label>
+            </li>
+        </ul>
+      </div>
+
+      <div data-hook="product_price" class="columns eight">
+        <div id="product-price">
+            <h3 class="product-section-title"><span id="feemessage"><a href='#'>View Fees</a></span></h3>
+            <div style="display:none;">
+                <span class='feemm'><span class="price selling" itemprop="price"></span> <span class="name"></span></span><br>
+                <span class='feenm'><span class="price selling" itemprop="price"></span> <span class="name"></span></span><br>
+                <span class='feerl'><span class="price selling" itemprop="price"></span> <span class="name"></span></span><br>
+                <span class='feeec'><span class="price selling" itemprop="price"></span> <span class="name"></span></span><br>
+              <span itemprop="priceCurrency" content="USD"></span>
+                <span class="applicable-fee-note">Login for the applicable fee</span>
+            </div>
+        </div>
+      </div>
+  </div>
+</form>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("#feemessage > a").click(function(e) {
+      e.preventDefault();
+      $("#feemessage").parent().next().show();
+      $("#feemessage").text("Fees");
+      return false;
+    });
+    radios = $('#product-variants input[type="radio"]');
+    if (radios.length > 0) {
+      radios.click(function(event) {
+        var tbl = $(this).data('price-table');
+        ['nm', 'mm', 'ec', 'rl'].forEach(function (f) {
+          var c = '.fee' + f;
+          ['price', 'name'].forEach(function (t) {
+            $(c + ' .' + t).text(tbl[f][t]);
+          });
+        });
+      });
+      radios.first().trigger('click');
+    }
+    $('#products_502_3008').attr('type','hidden');
+  });
+</script>
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+        </div>
+
+      </div>
+
+      <footer id="footer" class="sixteen columns" data-hook>
+  <div id="footer-left" class="columns alpha eight" data-hook></div>
+  <div id="footer-right" class="columns omega eight" data-hook></div>
+	<p id="copy">
+		&copy; 1992-2018 Linguistic Data Consortium, The Trustees of the University of Pennsylvania. All Rights Reserved.
+	</p>
+</footer>
+
+
+    </div>
+
+    
+    <script>
+      Spree.api_key = "";
+    </script>
+  </body>
+</html>
